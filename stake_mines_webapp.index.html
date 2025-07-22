@@ -1,1 +1,0 @@
-# stake-mines-predictor
